@@ -1,0 +1,8 @@
+lead_id,stage,stage_date,channel,project_id
+DEMO-L-001,Lead,2026-06-01,Direct,DEMO-P-001
+DEMO-L-001,Qualified,2026-06-02,Direct,DEMO-P-001
+DEMO-L-001,Opportunity,2026-06-04,Direct,DEMO-P-001
+DEMO-L-001,Reservation,2026-06-10,Direct,DEMO-P-001
+DEMO-L-001,Contract,2026-06-15,Direct,DEMO-P-001
+DEMO-L-002,Lead,2026-06-03,Indirect,DEMO-P-002
+DEMO-L-002,Qualified,2026-06-05,Indirect,DEMO-P-002

@@ -1,0 +1,4 @@
+schedule_id,contract_id,due_date,contractual_amount,collected_amount,expected_collection_date
+DEMO-SCH-001,DEMO-CON-001,2026-07-01,200000,200000,2026-07-01
+DEMO-SCH-002,DEMO-CON-001,2026-08-01,200000,150000,2026-08-10
+DEMO-SCH-003,DEMO-CON-001,2026-09-01,200000,0,2026-09-10

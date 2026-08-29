@@ -1,0 +1,4 @@
+as_of_date,unit_id,project_id,inventory_status,availability_start_date,list_price
+2026-08-30,DEMO-U-001,DEMO-P-001,Available,2026-07-15,6500000
+2026-08-30,DEMO-U-002,DEMO-P-001,Sold,2026-04-01,7600000
+2026-08-30,DEMO-U-003,DEMO-P-002,Available,2025-12-01,10500000

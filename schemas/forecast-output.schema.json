@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ForecastOutput",
+  "type": "object",
+  "required": ["forecast_date", "horizon", "scenario", "forecast_amount"],
+  "properties": {
+    "forecast_date": {"type": "string", "format": "date"},
+    "horizon": {"type": "string"},
+    "scenario": {"type": "string"},
+    "forecast_amount": {"type": "number"},
+    "currency": {"type": ["string", "null"]},
+    "assumptions": {"type": ["array", "null"], "items": {"type": "string"}}
+  },
+  "additionalProperties": true
+}
